@@ -1,0 +1,49 @@
+版本号：1.0.0
+维护者：BlindBee
+更新时间：2026-01-05
+
+// 编写时，请至少包含“词条”、“通用词条”、“禁翻词条”、“正则表达式”这 4 个部分中的 1 个
+
+词条
+// 此区域区分大小写，用于翻译人名等专有名词
+//Wakaba Mutsumi = 若叶 睦
+//Hypatia：伊帕希娅
+
+通用词条
+// 此区域不区分大小写，用于翻译通用概念
+Lumière：卢明
+Gustave：古斯塔夫
+Maelle：玛埃尔
+Clea：克莱雅
+Verso：维尔索
+Painted Verso Dessendre=画界 维尔索 狄桑德
+Alicia Dessendre=阿莉西亚 狄桑德
+Lune：吕涅
+Sciel：熙艾尔
+Monoco：莫诺柯
+Esquie：埃斯基耶
+Sophie：索菲
+Renoir：雷诺阿
+Aline：阿利涅
+chroma：源色
+Continent：大陆
+Nevron：经怪
+Lumina converter=灵光转换器
+Clair Obscur：光与影
+Expedition 33：33号远征队
+A Life to Paint：用一生去绘
+A Life to Love：用一生去爱
+Gommage：抹煞
+Ancient Sanctuary：古代圣所
+gestral：刷头精
+Paintress：绘母
+Curator：艺策人
+
+
+禁翻词条
+// 此区域区分大小写，用于保持原文
+
+
+正则表达式
+// 匹配德语中 "Wachmann" 的单数和复数形式
+//Wachm(a|ä)nn(er)?: 守卫
