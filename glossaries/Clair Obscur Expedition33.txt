@@ -1,6 +1,6 @@
-版本号：1.0.0
+版本号：1.0.1
 维护者：BlindBee
-更新时间：2026-01-05
+更新时间：2026-01-06
 
 // 编写时，请至少包含“词条”、“通用词条”、“禁翻词条”、“正则表达式”这 4 个部分中的 1 个
 
@@ -11,7 +11,8 @@
 
 通用词条
 // 此区域不区分大小写，用于翻译通用概念
-Lumière：卢明
+
+//人名
 Gustave：古斯塔夫
 Maelle：玛埃尔
 Clea：克莱雅
@@ -25,8 +26,26 @@ Esquie：埃斯基耶
 Sophie：索菲
 Renoir：雷诺阿
 Aline：阿利涅
-chroma：源色
+Paintress：绘母
+Curator：艺策人
+Axon：车由泰坦
+Visages：千面
+gestral：刷头精
+Bourgeon：芽蔟
+
+//地名
+Lumière：卢明
+Lumiere：卢明
+Ancient Sanctuary：古代圣所
+Monolith：纪石
 Continent：大陆
+
+//技能&武器
+Pictos：符文
+Phantom Stars：幻影星辰
+
+//其他
+chroma：源色
 Nevron：经怪
 Lumina converter=灵光转换器
 Clair Obscur：光与影
@@ -34,11 +53,6 @@ Expedition 33：33号远征队
 A Life to Paint：用一生去绘
 A Life to Love：用一生去爱
 Gommage：抹煞
-Ancient Sanctuary：古代圣所
-gestral：刷头精
-Paintress：绘母
-Curator：艺策人
-
 
 禁翻词条
 // 此区域区分大小写，用于保持原文
