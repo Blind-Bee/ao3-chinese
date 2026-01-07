@@ -1,6 +1,6 @@
-版本号：1.0.1
+版本号：1.0.2
 维护者：BlindBee
-更新时间：2026-01-06
+更新时间：2026-01-07
 
 // 编写时，请至少包含“词条”、“通用词条”、“禁翻词条”、“正则表达式”这 4 个部分中的 1 个
 
@@ -22,6 +22,7 @@ Alicia Dessendre=阿莉西亚 狄桑德
 Lune：吕涅
 Sciel：熙艾尔
 Monoco：莫诺柯
+Noco：诺柯
 Esquie：埃斯基耶
 Sophie：索菲
 Renoir：雷诺阿
@@ -31,7 +32,11 @@ Curator：艺策人
 Axon：车由泰坦
 Visages：千面
 gestral：刷头精
+sakapatate：土豆偶
+Grandis：巍民
 Bourgeon：芽蔟
+lampmaster：司灯
+
 
 //地名
 Lumière：卢明
@@ -39,6 +44,7 @@ Lumiere：卢明
 Ancient Sanctuary：古代圣所
 Monolith：纪石
 Continent：大陆
+Stone Wave Cliffs：石涛崖
 
 //技能&武器
 Pictos：符文
@@ -47,12 +53,15 @@ Phantom Stars：幻影星辰
 //其他
 chroma：源色
 Nevron：经怪
+neurons：经怪
 Lumina converter=灵光转换器
 Clair Obscur：光与影
 Expedition 33：33号远征队
 A Life to Paint：用一生去绘
 A Life to Love：用一生去爱
 Gommage：抹煞
+gradient attack：灵墨攻击
+gradient attacks：灵墨攻击
 
 禁翻词条
 // 此区域区分大小写，用于保持原文
